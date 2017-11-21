@@ -1,0 +1,47 @@
+.main_container {
+    margin:30px 0;
+}
+
+.form-wrap {
+    width: 100%;
+    min-height: 100px;
+}
+
+.required {
+    color:red;
+}
+
+h5.heading {
+    text-align: center;
+    font-size: 18px;
+    display: inline-block;
+    color: #000000;
+}
+
+.form-wrapper .well {
+    border: none;
+    border-radius: 0;
+    border-top: #d2d2d2 solid 1px;
+    padding: 15px;
+    margin-bottom:20px;
+}
+
+.form-wrapper .form-title{
+    margin: 0;
+    padding: 0 30px;
+    font-size: 18px;
+    color: darkgray;
+}
+
+.form-wrapper .form-group > label {
+    font-weight: 600;
+    font-size: 13px;
+    color: #4d4d4d;
+}
+
+.form-wrapper .form-control {
+    box-shadow: none;
+    border-radius: 2px;
+    height: 38px;
+}
+
